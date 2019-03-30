@@ -1,0 +1,29 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "last_name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20190330220400",
+    "dto": "no",
+    "searchEngine": "elasticsearch",
+    "service": "serviceClass",
+    "entityTableName": "cliente",
+    "databaseType": "sql",
+    "jpaMetamodelFiltering": true,
+    "pagination": "pagination"
+}

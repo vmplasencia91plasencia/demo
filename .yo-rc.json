@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "demo",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "demo",
+    "packageName": "demo",
+    "packageFolder": "demo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODJjODhmODY2Y2I5NDA5ZTMyMzMzMDkyMTA1NzE3MmVlZjY2MjgxY2MxNDEwOTczZTYwNTFmNDI3ZDA2NWY2ODI5YjM4YWI4ZWYwOTQxNzFmZmU2NTNmYmExMWE2NmZlN2JjYTY4NTRiNzk3YTBiZTc3ZDNlZDdjNjA0MjA4OGY=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es"
+    ]
+  }
+}
